@@ -36,4 +36,7 @@ python manage.py runserver //서버 시작
 
 
 
-장고 
+
+
+
+
